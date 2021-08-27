@@ -1,0 +1,10 @@
+/* 
+    Header  50px
+    Content 1fr
+    Footer  50px
+    fullsize 에 grid 가 포함되어있으므로 
+    display: grid 불필요!
+*/
+.main {
+    grid-template-rows: 50px 1fr 50px;
+}

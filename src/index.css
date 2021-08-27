@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: #f0f8ff;
+}
+
+.fullsize {
+  min-height: 100vh;
+  display: grid;
+}

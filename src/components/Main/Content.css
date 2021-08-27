@@ -1,0 +1,32 @@
+.mainContent {
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+
+.whatDate {
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+.menuName {
+  font-size: 1.3rem;
+  margin-top: 20px;
+}
+
+.menuExplain {
+  font-size: 0.8rem;
+}
+
+/* 링크의 밑줄 없애기위해 존재 */
+.orderBtnMainLink {
+  text-decoration: none;
+}
+
+.orderBtnMain {
+  margin-top: 20px;
+  color: white;
+  border-radius: 10px;
+}

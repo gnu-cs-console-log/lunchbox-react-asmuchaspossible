@@ -1,0 +1,10 @@
+img {
+  border-radius: 50px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  height: 30px;
+  position: absolute;
+  top: 240px;
+}
